@@ -90,3 +90,15 @@ testing_support/google_appengine
 
 # Ignore git traces produced by git push on git-cl upload.
 /traces
+.gclient_entries
+tagcache.db
+.lock
+_current
+description.json
+manifest.json
+isolate
+isolate.cipd_version
+isolated
+isolated.cipd_version
+swarming
+swarming.cipd_version
